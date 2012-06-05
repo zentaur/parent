@@ -1,0 +1,94 @@
+This file contains the GPG keys of Zentaur developers.
+Please don't use them for email unless you have to.
+Their main purpose is code signing.
+
+Users:
+    gpg --import KEYS
+
+Zentaur Developers:
+    (gpg --list-sigs <your name> && gpg --armor --export <your name>) >> KEYS.
+
+************************************************************************************************************
+pub   1024D/41A0D191 2010-02-06
+uid                  Simone Tripodi (Simo) <simone.tripodi@gmail.com>
+sig 3        41A0D191 2010-02-06  Simone Tripodi (Simo) <simone.tripodi@gmail.com>
+sub   4096g/3DE4A683 2010-02-06
+sig          41A0D191 2010-02-06  Simone Tripodi (Simo) <simone.tripodi@gmail.com>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.10 (Darwin)
+
+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
+TMXEmQ==
+=rWlb
+-----END PGP PUBLIC KEY BLOCK-----
+pub   1024D/977AE7EF 2008-04-14
+uid                  Marco Speranza <marco.speranza79@gmail.com>
+sig 3        977AE7EF 2010-07-10  Marco Speranza <marco.speranza79@gmail.com>
+sub   2048g/C1EC02F4 2008-04-14
+sig          977AE7EF 2008-04-14  Marco Speranza <marco.speranza79@gmail.com>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.10 (Darwin)
+
+mQGiBEgDjMsRBACcp/Ei5SE3X2Yg7sqSazGYDiTnnFz3UQsNFPuSVMRKiU3maLQV
+Q+YbVYdWDdqtjMa7F8HZ3/Dlt/6D4zSvu5V32EQ+Uw1ruEbaIrDoeY55WkX+R3Yh
+dXGFsKZZT0Hg1fJ8K25Gxvv8z+g1eGZPbxbR0z7tuHuL5itu4sH7ZnIv7wCg0+lv
+jeNsOPb9DEqfjReiE76CNPkD/juqNUz7RC8Hm2PidnpY5RnvW2bTR8MeCnPPTGIz
+ss7qp1a+xu69U3G6Ngr4ZzEeVEzbFrzC4YmrJTJHDtjHyIpdjo+WiKSD8DU86aWc
+SNSAd9Ty3PXiqm+Tyaoold8V50QJCPAm8qEBAYl45Yv9QV8AbsF85iNCACWXSC77
+GRQZA/4qF4BYJja6dKoe9JdRqx80WaAHDRSlgaf/yeIoufwTY8B14EFSYahvqH59
+xT9rfGWIFbcQMh95R+UBq0fO9VnmcqZ3YwnD53hSUtFEB5CKJ49ixTfsZ5gWGo+I
+Mhez1Hxma2wWyeupeMF6XgrvWm9+JXc8dDmZw6qhnosTJ0EPabQrTWFyY28gU3Bl
+cmFuemEgPG1hcmNvLnNwZXJhbnphNzlAZ21haWwuY29tPohjBBMRAgAjAhsjBgsJ
+CAcDAgQVAggDBBYCAwECHgECF4AFAkw44IQCGQEACgkQDmYNLJd65+957ACcCeKU
+36RPYWst/dcHLclNF6HXqQ0AnA23HJFrThKjUlBKxKeAJKtNhPn8uQINBEgDjN0Q
+CADDd6NhFFuAKwAv6MP6/sRa6JLEXIfGYAb5hUCf0fu5g7p9GIEyRctfoXysy5jN
+A4u0DNFyz9o+SnhnjtKAkX0tCfOJOvi9MfM+9npGZJBLVKQRB6J+xzlcKj4Z5MNb
+yQpQXR/shsvCoeOZMUSk6qp4c6rXiiUAdbz4yS+jzBGvfC3HPZzwpk2toJQ9lzp7
+CzMM8ArmhH/SXFiHcifzxSoXFj2yKgQK1EXlXQtITRI2VFbgSl426A2XUL+zu08B
+HdoGJMhWwJIBJcFqWFtUR3M+rgr6Ukf8BfWTZWVffrlMq23FgK9yG1lYsYNznOvS
+3+iOTsWi8LqA6UX7P6WDpbrDAAMFCACQt6oDhI0I9HQVztZDhm3RdqzgXu7xaMn3
+YtSmjUl8hHdJqLWmErcWT+xYOef/veXCSMGyfbAV5HGtC4EZKJ0av1QHupKm+GRl
+30Ye7vY77ge0sEqcYmw0Uyn7tefA6FeEKPvdJSdXqkLl3k+3n4FrzQzfFpWkTm75
+sN0sVlSO+ltCsUYTi8SXoE+THdjeP05+M8KPIr3pJFLPMbzKw3nWyEmOvsRRVSd2
+0VEoxUG1oqe18uKO+KY/cP3LV/JbOVGQ8EX2v0BsraFgfbHqiGjTDZnnXEUgWoeM
+DjrixIQYIUgwW9KV3z4erKloWjRdm2PK3+zdmNUXStM2n+6qklIoiEkEGBECAAkF
+AkgDjN0CGwwACgkQDmYNLJd65+8bkgCeJNklFn2zv5UwFapsriMVeS/zUJEAoKyd
+/B5qhyRwTU7sdNPz14luxShy
+=AL37
+-----END PGP PUBLIC KEY BLOCK-----
