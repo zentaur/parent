@@ -131,7 +131,7 @@
   </issueManagement>
   <ciManagement>
     <system>Jenkins</system>
-    <url>https://TBD.ci.cloudbees.com/</url>
+    <url>https://zentaur.ci.cloudbees.com/</url>
     <notifiers>
       <notifier>
         <type>mail</type>
