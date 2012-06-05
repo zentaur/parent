@@ -440,6 +440,20 @@
       </plugins>
     </pluginManagement>
 
+    <extensions>
+      <extension>
+        <groupId>org.apache.maven.scm</groupId>
+        <artifactId>maven-scm-provider-gitexe</artifactId>
+        <version>1.7</version>
+      </extension>
+
+      <extension>
+        <groupId>org.apache.maven.scm</groupId>
+        <artifactId>maven-scm-manager-plexus</artifactId>
+        <version>1.7</version>
+      </extension>
+    </extensions>
+
     <resources>
       <resource>
         <directory>${basedir}</directory>
